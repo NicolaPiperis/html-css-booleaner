@@ -45,12 +45,27 @@
     margin-bottom: 50px;
 }
 
-thead{
-    background-color: rgb(7, 42, 241);
+table{
+    border-collapse: collapse;
 }
 
-td{
-    width: 33%;
+thead{
+    background-color: rgb(7, 42, 241);
+    color: white;
+}
+
+th{
+    width: 30%;
+    text-align: left;
+    
+}
+
+#description{
+    width: 40%;
+}
+
+.azzure{
+    background-color: aqua;
 }
 
 /* footer style */
