@@ -18,8 +18,42 @@
 
 }
 
-/* footer style */
+/* main style */
 
+/* title and pictures */
+#blue-text{
+    color: blue;
+    font-size: larger;
+}
+
+.info-article{
+    color: grey;
+    font-size: larger;
+}
+
+/* paragraph and table */
+.general-text{
+    font-size: 24px;
+}
+
+#highlighted-paragraph{
+    background-color: yellowgreen;
+}
+
+.list{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+thead{
+    background-color: rgb(7, 42, 241);
+}
+
+td{
+    width: 33%;
+}
+
+/* footer style */
 #footer-sentence{
     font-size: 20px;
     color: grey;
